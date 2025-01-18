@@ -91,7 +91,3 @@ Este repositório tem como objetivo registrar uma série de consultas e análise
     - "Qual o valor médio gasto por cliente a cada pedido?"
 
 Este repositório será atualizado com soluções utilizando **Pandas** para responder a essas questões, servindo como um guia prático de análise de dados com Python.
-
----
-
-📌 **Contribuições e sugestões são bem-vindas!** Caso tenha ideias para novas análises ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request. 🚀
