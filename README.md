@@ -89,5 +89,3 @@ Este repositório tem como objetivo registrar uma série de consultas e análise
 
 20. **Análise do Ticket Médio por Cliente**
     - "Qual o valor médio gasto por cliente a cada pedido?"
-
-Este repositório será atualizado com soluções utilizando **Pandas** para responder a essas questões, servindo como um guia prático de análise de dados com Python.
